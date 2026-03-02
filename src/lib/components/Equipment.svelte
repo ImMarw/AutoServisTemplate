@@ -4,10 +4,10 @@
 	let visible = false;
 
 	const equipments = [
-		{ title: '3D Laserová geometrie', desc: 'Milimetrová přesnost nastavení podvozku pro dokonalé jízdní vlastnosti.', img: 'https://images.unsplash.com/photo-1635784063857-41a4a1618395?q=80&w=800&auto=format&fit=crop' },
-		{ title: 'Originální diagnostika', desc: 'Používáme certifikovaný software pro přesnou identifikaci závad elektroniky.', img: 'https://images.unsplash.com/photo-1503328427499-d9dcab29e956?q=80&w=800&auto=format&fit=crop' },
-		{ title: 'Servis klimatizací', desc: 'Plnění chladivem R134a i novým 1234yf, dezinfekce ozonem a oprava úniků.', img: 'https://images.unsplash.com/photo-1599256865203-12d8a0f907e8?q=80&w=800&auto=format&fit=crop' },
-		{ title: 'Moderní pneuservis', desc: 'Šetrné přezouvání nízkoprofilových a RunFlat pneumatik bez poškození ráfku.', img: 'https://images.unsplash.com/photo-1580273916550-e323be2ae537?q=80&w=800&auto=format&fit=crop' }
+		{ title: '3D Laserová geometrie', desc: 'Milimetrová přesnost nastavení podvozku pro dokonalé jízdní vlastnosti.', img: '/img/audi.jpg' },
+		{ title: 'Originální diagnostika', desc: 'Používáme certifikovaný software pro přesnou identifikaci závad elektroniky.', img: '/img/audi.jpg' },
+		{ title: 'Servis klimatizací', desc: 'Plnění chladivem R134a i novým 1234yf, dezinfekce ozonem a oprava úniků.', img: '/img/audi.jpg' },
+		{ title: 'Moderní pneuservis', desc: 'Šetrné přezouvání nízkoprofilových a RunFlat pneumatik bez poškození ráfku.', img: '/img/audi.jpg' }
 	];
 </script>
 
