@@ -1,3 +1,6 @@
+# Tento projekt slouzi jakozto template pro potencionalni auto servis
+# This project serves as a template for a potentional car servis
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
